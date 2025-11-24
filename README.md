@@ -18,10 +18,8 @@ Utilizando a base de dados censitária de condutores habilitados (Outubro/2025) 
 
 | Componente | Link de Acesso |
 | :--- | :--- |
-| **📂 Fonte de Dados Primária** | [Dados Abertos Detran-SP]([INSIRA_O_LINK_AQUI]) |
-| **📓 Notebook de Processamento** | [Acessar Código no Google Colab]([INSIRA_SEU_LINK_DO_COLAB_AQUI]) |
-| **📊 Dashboard Interativo** | [Acessar Drive com o arquivo do Power BI ]([INSIRA_LINK_DO_DASHBOARD_AQUI]) |
-| **📑 Apresentação Executiva** | [Acessar Drive com o arquivo dos Slides (PDF/PPT)]([INSIRA_LINK_DA_APRESENTAÇÃO_AQUI]) |
+| **📂 Fonte de Dados Primária** | [Dados Abertos Detran-SP]([https://dadosabertos.sp.gov.br/dataset/emissao-de-carteiras-nacionais-de-habilitacao-cnh]) |
+| **📊 Dashboard Interativo** | [Acessar Drive com o arquivo do Power BI ]([https://drive.google.com/drive/folders/1eWn0TQrnvIIyfdFF6NJhRvtwLBy1sdU0?usp=drive_link]) |
 
 ---
 
